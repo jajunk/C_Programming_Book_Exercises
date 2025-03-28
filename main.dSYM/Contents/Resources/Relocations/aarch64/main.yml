@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/johnjunkins/Desktop/C_Programming_Book_Exercises/main'
+relocations:     []
+...
