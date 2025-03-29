@@ -3,7 +3,6 @@
 int main() {
     printf("Hello, World!\n");
     printf("This is a simple C program.\n");
-    return 0;
 
     // TODO Add Temp Table Exercise One 1.2 Variables and Arithmetic Expressions
 
@@ -20,4 +19,5 @@ int main() {
         printf("%d\t%d\n", fahr, celsius);
         fahr = fahr + step;
     }
+    return 0;
 }
